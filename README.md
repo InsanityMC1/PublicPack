@@ -19,3 +19,14 @@ This is the resource pack for pause menu
 - feedback https://discord.gg/Quj89u3azV 
 - website for other packs i will only do if i can 
 - https://polecat-adapting-morally.ngrok-free.app/portfolio.html
+
+
+## Info
+
+- Please Dont claim as your own and use the generator below to get new uuids
+- https://www.uuidgenerator.net/
+- change 
+- pause_screen.json
+- discord_ui.json
+- debug_screen.json
+- and en.GB/US.lang for your stuff
