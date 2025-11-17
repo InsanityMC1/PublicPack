@@ -11,7 +11,7 @@ This is the resource pack for pause menu
 
 - Keep the resource pack under 12MB
 - If any new icons are over 128x128 they must be downscaled, just enough to decrease the file size a bit but still no noticable difference
-- Only InsanityMC Must apporve changes
+- Only InsanityMC Must approve changes
 
 ## Rules For Others
 
